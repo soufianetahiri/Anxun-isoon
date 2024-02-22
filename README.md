@@ -66,6 +66,6 @@ Some of the tools that i-Soon used are impressive enough. Some highlights:
     -   User lookup database which lists user data including phone number, name, and email, and can be correlated with social media accounts.
     -   Targeted automatic penetration testing scenario framework.
   
-# Initial machine translation by @DE7AULTsec
+# Initial machine translations
 -   https://github.com/soufianetahiri/Anxun-isoon/tree/main/InitialTranslations
 -   https://github.com/mttaggart/I-S00N/blob/main/README-en.md
