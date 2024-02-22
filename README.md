@@ -46,7 +46,15 @@ The distribution of messages per hour shows a pattern that can help infer the wo
 
 # Initial hot takes
 -   https://twitter.com/DE7AULTsec/status/1759388057323618611
-
+-   https://news.risky.biz/risky-biz-briefing-the-i-soon-data-leak:
+The i-SOON data also includes files that appear to be documentation or more technical business pitches that describe products of an extremely broad range of capabilities. These include:
+    -  Malware designed to run on Windows, macOS, Linux, iOS, and Android;
+    -  A platform to collect and analyse email data;
+    -  A platform to hack into Outlook accounts;
+    -  A Twitter monitoring platform;
+    -  An reconnaissance platform using OSINT data;
+    -  Physical hardware devices meant to be used for on-premises hacking, typically targeting WiFi networks;
+    -  Communications equipment using a Tor-like network for agents working abroad.
 -   https://www.malwarebytes.com/blog/news/2024/02/a-first-analysis-of-the-i-soon-data-leak:
 Some of the tools that i-Soon used are impressive enough. Some highlights:
     -   Twitter (now X) stealer: Features include obtaining the user’s Twitter email and phone number, real-time monitoring, reading personal messages, and publishing tweets on the user’s behalf.
@@ -60,3 +68,4 @@ Some of the tools that i-Soon used are impressive enough. Some highlights:
   
 # Initial machine translation by @DE7AULTsec
 -   https://github.com/soufianetahiri/Anxun-isoon/tree/main/InitialTranslations
+-   https://github.com/mttaggart/I-S00N/blob/main/README-en.md
