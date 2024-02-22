@@ -43,3 +43,8 @@ The distribution of messages per hour shows a pattern that can help infer the wo
 
 -   **Peak Activity Hours:** From the early morning hours around 2 AM, increasing to a peak at 3 AM, and then gradually decreasing after 5 AM. There's another peak starting from 8 AM and extending through 10 AM.
 -   **Lower Activity Hours:** Activity significantly drops after 4 PM, with minimal to no messages after 5 PM.
+
+# Initial hot takes
+-   https://twitter.com/DE7AULTsec/status/1759388057323618611
+# Initial machine translation by @DE7AULTsec
+-   https://github.com/soufianetahiri/Anxun-isoon/tree/main/InitialTranslations
