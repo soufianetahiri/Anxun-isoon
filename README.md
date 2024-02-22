@@ -2,9 +2,9 @@
 https://github.com/I-S00N/I-S00N
 
 # Anxun-isoon
-The iSoon/Anxun leak in a single json file
+The iSoon/Anxun leak in a single json file (cn_extracted_messages.json)
 
-
+# What this json tells us:
 -   The user identified as `lengmo` is the top sender, with a total of 4981 messages. This indicates that `lengmo` is the most active participant in the conversation.
 -   The most frequent communication pair is between `lengmo` and `Shutd0wn`, with `lengmo` sending 4635 messages to `Shutd0wn`. This suggests a significant amount of interaction between these two users.
 
