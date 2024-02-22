@@ -46,5 +46,17 @@ The distribution of messages per hour shows a pattern that can help infer the wo
 
 # Initial hot takes
 -   https://twitter.com/DE7AULTsec/status/1759388057323618611
+-   https://www.malwarebytes.com/blog/news/2024/02/a-first-analysis-of-the-i-soon-data-leak:
+ Some of the tools that i-Soon used are impressive enough. Some highlights:
+-   Twitter (now X) stealer: Features include obtaining the user’s Twitter email and phone number, real-time monitoring, reading personal messages, and publishing tweets on the user’s behalf.
+-   Custom Remote Access Trojans (RATs) for Windows x64/x86: Features include process/service/registry management, remote shell, keylogging, file access logging, obtaining system information, disconnecting remotely, and uninstallation.
+-   The iOS version of the RAT also claims to authorize and support all iOS device versions without jailbreaking, with features ranging from hardware information, GPS data, contacts, media files, and real-time audio records as an extension. (Note: this part dates back to 2020)
+-   The Android version can dump messages from all popular Chinese chatting apps QQ, WeChat, Telegram, and MoMo and is capable of elevating the system app for persistence against internal recovery.
+-   Portable devices for attacking networks from the inside.
+-   Special equipment for operatives working abroad to establish safe communication.
+-   User lookup database which lists user data including phone number, name, and email, and can be correlated with social media accounts.
+-   Targeted automatic penetration testing scenario framework.
+
+-   
 # Initial machine translation by @DE7AULTsec
 -   https://github.com/soufianetahiri/Anxun-isoon/tree/main/InitialTranslations
