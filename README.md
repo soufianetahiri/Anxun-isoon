@@ -52,7 +52,7 @@ The i-SOON data also includes files that appear to be documentation or more tech
     -  A platform to collect and analyse email data;
     -  A platform to hack into Outlook accounts;
     -  A Twitter monitoring platform;
-    -  An reconnaissance platform using OSINT data;
+    -  A reconnaissance platform using OSINT data;
     -  Physical hardware devices meant to be used for on-premises hacking, typically targeting WiFi networks;
     -  Communications equipment using a Tor-like network for agents working abroad.
 -   https://www.malwarebytes.com/blog/news/2024/02/a-first-analysis-of-the-i-soon-data-leak:
